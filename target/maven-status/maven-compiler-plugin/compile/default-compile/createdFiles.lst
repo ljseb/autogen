@@ -1,0 +1,16 @@
+com\au\autogen\config\ServerConfig.class
+com\au\autogen\model\ToDoItemUpdateRequest.class
+com\au\autogen\model\ToDoItem.class
+com\au\autogen\model\ToDoItemValidationError.class
+com\au\autogen\service\ToDoService.class
+com\au\autogen\model\ToDoTestResult.class
+com\au\autogen\model\ToDoItemAddRequest.class
+com\au\autogen\model\ToDoItemValidationErrorDetails.class
+com\au\autogen\service\TaskService.class
+com\au\autogen\controller\ToDoController.class
+com\au\autogen\AutogenApplication.class
+com\au\autogen\model\BalanceTestResult.class
+com\au\autogen\controller\TaskController.class
+com\au\autogen\config\ServerConfig$1.class
+com\au\autogen\model\ToDoItemNotFoundError.class
+com\au\autogen\model\ToDoItemNotFoundErrorDetails.class
